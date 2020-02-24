@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "GetAPlace",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

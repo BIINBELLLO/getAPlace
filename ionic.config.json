@@ -1,0 +1,7 @@
+{
+  "name": "GetAPlace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
